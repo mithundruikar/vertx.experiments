@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="VerticlesScaling" />
+      </profile>
+      <profile name="Annotation profile for vertx-microservice-workshop" enabled="true">
+        <sourceOutputDir name="src/main/generated" />
+        <sourceTestOutputDir name="src/test/generated" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="audit-service" />
+        <module name="compulsive-traders" />
+        <module name="portfolio-service" />
+        <module name="quote-generator" />
+        <module name="trader-dashboard" />
+        <module name="vertx-workshop-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="audit-service" target="1.8" />
+      <module name="compulsive-traders" target="1.8" />
+      <module name="portfolio-service" target="1.8" />
+      <module name="quote-generator" target="1.8" />
+      <module name="trader-dashboard" target="1.8" />
+      <module name="VerticlesScaling" target="1.5" />
+      <module name="vertx-microservice-workshop" target="1.8" />
+      <module name="vertx-workshop-common" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

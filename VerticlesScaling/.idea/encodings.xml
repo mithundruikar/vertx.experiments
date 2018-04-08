@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../vertx-microservices-workshop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../vertx-microservices-workshop/audit-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../vertx-microservices-workshop/compulsive-traders" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../vertx-microservices-workshop/portfolio-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../vertx-microservices-workshop/quote-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../vertx-microservices-workshop/trader-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../vertx-microservices-workshop/vertx-workshop-common" charset="UTF-8" />
+  </component>
+</project>

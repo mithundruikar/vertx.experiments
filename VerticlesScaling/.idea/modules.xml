@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/VerticlesScaling.iml" filepath="$PROJECT_DIR$/VerticlesScaling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vertx-microservices-workshop/audit-service/audit-service.iml" filepath="$PROJECT_DIR$/../vertx-microservices-workshop/audit-service/audit-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vertx-microservices-workshop/compulsive-traders/compulsive-traders.iml" filepath="$PROJECT_DIR$/../vertx-microservices-workshop/compulsive-traders/compulsive-traders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vertx-microservices-workshop/portfolio-service/portfolio-service.iml" filepath="$PROJECT_DIR$/../vertx-microservices-workshop/portfolio-service/portfolio-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vertx-microservices-workshop/quote-generator/quote-generator.iml" filepath="$PROJECT_DIR$/../vertx-microservices-workshop/quote-generator/quote-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vertx-microservices-workshop/trader-dashboard/trader-dashboard.iml" filepath="$PROJECT_DIR$/../vertx-microservices-workshop/trader-dashboard/trader-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vertx-microservices-workshop/vertx-microservice-workshop.iml" filepath="$PROJECT_DIR$/../vertx-microservices-workshop/vertx-microservice-workshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vertx-microservices-workshop/vertx-workshop-common/vertx-workshop-common.iml" filepath="$PROJECT_DIR$/../vertx-microservices-workshop/vertx-workshop-common/vertx-workshop-common.iml" />
+    </modules>
+  </component>
+</project>
